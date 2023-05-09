@@ -1,6 +1,6 @@
 # Learn Go Programming
 
-###Setup VSCode to install tools
+### Setup VSCode to install tools
 
 * Launch the VS Code editor
 * Open the extension manager or alternatively, press `Ctrl + Shift + x`
